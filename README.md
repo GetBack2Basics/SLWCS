@@ -1,11 +1,6 @@
 # SLWCS Professional Background Repository
 
-This repository is a structured professional background archive of technical, conservation, and community-impact work led with the Sri Lanka Wildlife Conservation Society (SLWCS), with a primary focus on 1998–2010.
-
-It is organized to support:
-- Job applications
-- Proposal and capability drafting
-- AI-assisted profile analysis and tailoring
+This repository is a professional background archive of technical, conservation, and community-impact work led for the Sri Lanka Wildlife Conservation Society (SLWCS), from 1998 to 2010 when he moved to Australia.
 
 ## Quick Navigation
 
@@ -22,13 +17,3 @@ It is organized to support:
 ## Repository Purpose
 
 The content in this repository has been editorially restructured from original background material to improve readability, discoverability, and usability while preserving factual intent.
-
-## Source Documents Included in Repo
-
-- `1995-2005 SLWCS Annual Report.pdf`
-- `2006-2008 SLWCS Annual Report.pdf`
-
-## Notes
-
-- Publications are intentionally consolidated in a single file for easier referencing.
-- Historical content may include references to drafts, internal documents, presentations, and reports.
