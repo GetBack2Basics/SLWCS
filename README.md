@@ -2,22 +2,20 @@
 
 This repository documents integrated technical, conservation, and community-impact work delivered with the Sri Lanka Wildlife Conservation Society (SLWCS), primarily during 1998–2010.
 
-It highlights a practice-based leadership track that combined field implementation, geospatial systems, applied research, and community-facing program design to reduce human–elephant conflict and strengthen conservation outcomes.
+It highlights a practice-based leadership track that combined field implementation, geospatial systems, applied research, and community-facing program design to reduce human–wildlife conflict and strengthen conservation outcomes.
 
 ## Key Background Highlights
 
-- Led integrated conservation-technology programs with measurable community relevance  
+- Led integrated conservation-technology programs with measurable community relevance amounting to over USD 10 million
 - Spearheaded the **UN Award-winning SEHP program**  
 - Established the **c2GIS hub** for conservation planning and decision support  
 - Advanced **Google-funded eleID AI** wildlife identification initiatives  
-- Contributed to the **patented eleAlert** warning and risk communication framework  
+- Contributed to the **patented eleAlert** warning and risk communication framework
+- Worked on volunteer tourism establishment as well as high-end tourism concepts
+- Coordinated multiple international media programs (National Geographic, Discovery, Nature etc) and an international short film.
+- Oversaw operations at 3 field sites and 2 international 'offices', with approx 20 staff from local staff, builders, consultants, researchers, students and Phd's.
+- Hosted many international and local dignitaries and funding agency visits.
 
-This repository is structured to support:
-- Job applications and leadership positioning  
-- Capability statements and proposal drafting  
-- AI-assisted profile analysis and tailoring  
-
----
 
 ## Quick Navigation
 
@@ -30,12 +28,6 @@ This repository is structured to support:
 - [Career Timeline](docs/timeline.md)  
 - [Source Reports](docs/sources.md)  
 - [Using This Repository with AI Agents](docs/ai-agent-usage.md)
-
----
-
-## Repository Purpose
-
-Content has been editorially restructured from original background material to improve readability, discoverability, and practical reuse, while preserving factual intent.
 
 ## Source Documents Included in Repo
 
