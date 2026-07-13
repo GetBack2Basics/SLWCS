@@ -18,11 +18,12 @@ This repository is structured to support AI-assisted job-application and profile
 
 ### 2) Selection Criteria Response
 
-"Using this repository, draft a STAR-format response to this criterion: [CRITERION]. Prioritize evidence from `docs/projects/` and `docs/experience/roles-and-responsibilities.md`."
+"Using this repository, draft a STAR-format response to this criterion: [CRITERION]. Prioritize evidence from `projects/` and `experience/roles-and-responsibilities.md`."
 
 ### 3) Project-Based Achievement Bullets
 
-"Create 8 resume bullets focused on measurable impact, using `docs/projects/` and `docs/publications/publications.md`. Group bullets under Technical, Leadership, and Stakeholder Engagement."
+"Create 8 resume bullets focused on measurable impact, using `projects/` and `publications/publications.md`. Group bullets under Technical, Leadership, and Stakeholder Engagement."
+
 
 ### 4) Interview Preparation
 
