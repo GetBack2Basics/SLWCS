@@ -9,13 +9,14 @@ It highlights a practice-based leadership track that combined field implementati
 ## Key Background Highlights
 
 - Led integrated conservation-technology programs with measurable community relevance amounting to over USD 13 million (corrected to 2026 USD)
-- Spearheaded the **UN Award-winning SEHP program**  
-- Established the **c2GIS hub** for conservation planning and decision support  
-- Advanced **Google-funded eleID AI** wildlife identification initiatives  
-- Contributed to the **patented eleAlert** warning and risk communication framework
+- Spearheaded the **UN Equator Award-winning SEHP program**  (and many other local/international awards)
+- Established the **c2GIS hub** for conservation planning and decision support with ESRI and Local universities/international partners.
+- Advanced **Google-funded eleID AI** wildlife identification initiatives with the University of Moratuwa.
+- Contributed to the **patented eleAlert** warning and risk communication hardware/software with the University of Moratuwa
 - Co-developed the **Elephant Walk-Through Hotel Concept** and managed escape tourism and volunteer travel initiatives
 - Co-authored the published **Ivey / Harvard Business School Case Study: Elephant Walk Thru** (Product #904M52)
-- Coordinated multiple international media programs (National Geographic, Discovery, Nature, etc.) and an international short film
+- Led/Initiated multiple conservation/development projects as detailed in the /projects section.
+- Coordinated multiple international media programs (National Geographic, Discovery, Nature, etc.) and an international short film "Common Ground"
 - Oversaw operations at 3 field sites and 2 international offices, managing local staff, builders, consultants, researchers, students, and PhD candidates
 - Hosted international and local dignitaries and funding agency visits
 
@@ -37,7 +38,7 @@ It highlights a practice-based leadership track that combined field implementati
 - [Using This Repository with AI Agents](docs/ai-agent-usage.md)
 
 
-## Source Documents Included in Repo
+## Source Documents Included with images and spreadsheets
 
 - `1995-2005 SLWCS Annual Report.pdf`  
 - `1995-2005-SLWCS-Annual-Report-ocr.pdf` (Searchable OCR Version)  
